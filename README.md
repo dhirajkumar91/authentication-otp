@@ -1,4 +1,5 @@
-*Features
+*Features:
+
 User Registration with OTP email verification
 
 Secure password hashing with bcryptjs
